@@ -10,3 +10,12 @@ body {
 	height: 25px;
 	margin-right: 10px;
 }
+
+.number {
+    text-transform:uppercase;
+    right:10px;
+}
+
+.photo{
+    width:90%;
+}
